@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="2aa570c2-d46c-4f01-8e79-e9d7d8010c48" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="Updatig Secondary User" searchProperties="true" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="2aa570c2-d46c-4f01-8e79-e9d7d8010c48fileName">Updatig-Secondary-User</con:setting></con:settings><con:properties/><con:reportParameters/></con:testCase>
